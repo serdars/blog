@@ -14,6 +14,7 @@
     = feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed"
 
   %body
+    -# HEADER
     %nav.navbar.navbar-default.navbar-fixed-top{:role => "navigation"}
       .container-fluid
         .navbar-header
@@ -33,11 +34,20 @@
                 About
 
     .main{:role => "main"}
-      = yield
+      .row
+        -# MAIN CONTENT
+        .col-md-offset-1.col-md-8
+          = yield
+        -# Tags
+        .col-md-2
+          .list-group
+            - blog.tags.each do |tag, articles|
+              %a.list-group-item{:href => tag_path(tag), :class => ("active" if current_page.data.tag_page && tagname == tag)}
+                %span.badge
+                  #{articles.count}
+                = "##{tag}"
 
-    %aside
-      %h2
-        Recent Articles
+
       -# <ol>
       -#   <% blog.articles[0...10].each do |article| %>
       -#     <li><%= link_to article.title, article %> <span><%= article.date.strftime('%b %e') %></span></li>
