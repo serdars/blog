@@ -3,21 +3,15 @@ pageable: true
 per_page: 10
 ---
 
--# - if paginate && num_pages > 1
--#   %p
--#     Page #{page_number} of #{num_pages}
--#
--#   - if prev_page
--#     %p
--#       = link_to 'Previous page', prev_page
-
 - page_articles.each_with_index do |article, i|
-  %h2
+  %h1
     = link_to article.title, article
-    %span
-      = article.date.strftime('%b %e')
-  = article.body
-
--# - if paginate && next_page
--#   %p
--#     = link_to 'Next page', next_page
+    %small
+      = article.date.strftime('%b %e %Y')
+  %h4
+    - article.tags.each do |tag|
+      %a{:href => tag_path(tag)}
+        %span.label.label-default.horizontal-space
+          = "##{tag}"
+  = article.summary
+  = link_to "Read More", article

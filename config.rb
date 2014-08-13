@@ -13,7 +13,7 @@ activate :blog do |blog|
   # blog.sources = "{year}-{month}-{day}-{title}.html"
   # blog.taglink = "tags/{tag}.html"
   blog.layout = "layouts/layout"
-  # blog.summary_separator = /(READMORE)/
+  blog.summary_separator = /READMORE/
   # blog.summary_length = 250
   # blog.year_link = "{year}.html"
   # blog.month_link = "{year}/{month}.html"
@@ -73,9 +73,7 @@ page "/feed.xml", layout: false
 
 # Methods defined in the helpers block are available in templates
 # helpers do
-#   def some_helper
-#     "Helping"
-#   end
+#
 # end
 
 set :css_dir, 'stylesheets'

@@ -1,1 +1,8 @@
-body { padding-top: 70px; }
+body {
+  padding-top: 70px;
+}
+
+.horizontal-space {
+  margin-left: 5px;
+  margin-right: 5px;
+}
