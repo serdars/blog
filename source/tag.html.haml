@@ -1,0 +1,21 @@
+---
+tag_page: true
+pageable: true
+per_page: 12
+---
+%h2
+  %a{:href => "/"}
+    %span.label.label-default.horizontal-space
+      %i.fa.fa-fire
+  %span.label.label-default.horizontal-space
+    = "##{tagname}"
+
+%ul.list-unstyled
+  - page_articles.each do |article|
+    %li
+      %h3
+        = link_to article.title, article
+        %span
+          #{article.date.strftime('%b %e %Y')}
+      = article.summary
+      = link_to "Read More", article

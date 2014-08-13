@@ -1,0 +1,13 @@
+= wrap_layout :layout do
+  %h4
+    %a{:href => "/"}
+      %span.label.label-default.horizontal-space
+        %i.fa.fa-fire
+    - current_article.tags.each do |tag|
+      %a{:href => tag_path(tag)}
+        %span.label.label-default.horizontal-space
+          = "##{tag}"
+    %small
+      = current_article.date.strftime('%b %e %Y')
+  %article
+    = yield
