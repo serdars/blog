@@ -2,6 +2,7 @@
 title: About Beginnings
 date: 2014-08-14 00:52 UTC
 tags: meditations
+published: false
 ---
 
 Sometimes we make a bigger than needed deal out of them. We plan for them, prepare bravely execute and expect to feel differently after the moment they occur. After all we are not the same person anymore because we've begun something. The world is a different place now thanks to the thing that just began.

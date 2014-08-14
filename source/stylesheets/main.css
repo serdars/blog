@@ -2,7 +2,22 @@ body {
   padding-top: 70px;
 }
 
+.free-space {
+  height: 200px;
+}
+
 .horizontal-space {
   margin-left: 5px;
   margin-right: 5px;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("../fonts/Raleway-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Raleway";
+  font-weight: bold;
+  src: url("../fonts/Raleway-Bold.otf") format("opentype");
 }
