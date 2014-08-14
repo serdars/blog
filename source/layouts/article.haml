@@ -8,6 +8,6 @@
         %span.label.label-default.horizontal-space
           = "##{tag}"
     %small
-      = current_article.date.strftime('%b %e %Y')
+      #{current_article.title} - #{current_article.date.strftime('%b %e %Y')}
   %article
     = yield

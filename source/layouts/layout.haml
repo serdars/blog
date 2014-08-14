@@ -7,7 +7,7 @@
       Blog Title #{" - #{current_article.title}" if current_article}
 
     = stylesheet_link_tag 'font-awesome.min'
-    = stylesheet_link_tag 'bootstrap.min'
+    = stylesheet_link_tag 'bootstrap'
     = stylesheet_link_tag 'main'
     = javascript_include_tag 'jquery-2.1.1.min'
     = javascript_include_tag 'bootstrap.min'
@@ -43,7 +43,7 @@
         .col-md-2
           .list-group
             - blog.tags.each do |tag, articles|
-              %a.list-group-item{:href => tag_path(tag), :class => ("active" if current_page.data.tag_page && tagname == tag)}
+              %a.list-group-item{:href => tag_path(tag), :class => ("disabled" if current_page.data.tag_page && tagname == tag)}
                 %span.badge
                   #{articles.count}
                 = "##{tag}"
