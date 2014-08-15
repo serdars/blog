@@ -21,3 +21,7 @@ body {
   font-weight: bold;
   src: url("../fonts/Raleway-Bold.otf") format("opentype");
 }
+
+.visual {
+  width: 100%;
+}
