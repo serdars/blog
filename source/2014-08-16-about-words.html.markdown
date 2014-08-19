@@ -7,50 +7,30 @@ published: false
 
 As I was walking yesterday, I shared my path with a lady from a far-eastern country. During the 5 minutes we have walked with a reasonable distance between us, she was on the phone in her own language. I didn't know her language at all but I was able to pick up when she was asking a question, when she was excited or angry.
 
-A combination of sounds that did not make any sense to me at all; were very meaningful and useful for her. The opposite was true as well of course. My beloved words was meaningless combination of letters to anyone who did not speak my language. That was the time I've realized that I was being blind-sighted with the illusion of words.
-
-If you check the [dictionary](http://www.seslisozluk.com), corresponding turkish word for **love** is **ask**. But are they really the same thing? What about **sevda**, which is another turkish word for love? What does a turkish person mean when he utters the word "love"? What does it mean to an american? Does the word *love* really have a global; or forget global national or maybe even personal meaning?
+A combination of sounds that did not make any sense to me at all; were very meaningful and useful for her. The opposite was true as well of course. My beloved words was meaningless combination of letters to anyone who did not speak my language.
 
 READMORE
 
-## Frame
-
-As with any topic you can think of; words (associated with that language) has been a topic of conversation amongst human beings for a very long time. For a discussion around the literature internet points us to a lot of resources. For my selfish purposes, I will cherry pick the concepts to set the ground for the discussion ahead:
-
-http://en.wikipedia.org/wiki/Word
-http://en.wikipedia.org/wiki/Linguistics
-http://en.wikipedia.org/wiki/Language
-Representation medium for words are varied. Letters, Graphics, spoken language, sign language, tactile (http://en.wikipedia.org/wiki/Braille) even whistled.
-Families of languages: The languages that are most spoken in the world today belong to the Indo-European family, which include English, Spanish, Portuguese, Russian, and Hindi; the Sino-Tibetan family, which includes Mandarin Chinese, Cantonese, and many others; the Afro-Asiatic family, which includes Arabic, Amharic, Somali, and Hebrew; the Bantu languages, which include Swahili, Zulu, Shona, and hundreds of other languages spoken throughout Africa; and the Malayo-Polynesian languages, which include Indonesian, Malay, Tagalog, Malagasy, and hundreds of other languages spoken throughout the Pacific. 
-
 ## The Birth of Words
 
+As like all the things, words have been a topic of conversation for human beings for a really long time. There are various theories about the origin of the words. I believe that as like all the things, words iteratively evolved over time alongside with the evolution of language.
+
+* Human beings were making noises similar to animals trying to survive. And probably as species they had some common sounds they are doing.
+* As they get more intelligent, they recognized other human beings around them are just like them. So most likely the very first words they were able to agree upon, were in the lines of "mine", "go away", "i'll kill you", "you are beautiful". Probably they sounded like "arrgghhh", "brooaaaa", "hiyaaaa" & "phiiuuww".
+* Then they've discovered that life gets a lot easier when they collaborate. This is where the language and the words started really getting a boost. Now this probably  didn't happen as some dude came up with the idea. Probably all the physical things in the world started having names. The tribes who are talking more ended up the tribes who are talking less.
+* As more intelligent they got they started discovering and naming more things. Tools, things you should do and shouldn't do. Languages started evolving further. Noone I don't think ever about a set of rules for everyone to follow while speaking.
+* As we've started settling and learning farming, elders of the tribes became the teachers. They've started first education via tales. I would like to believe that stories were the first medium which helped language develop significantly. Because we see our lives as a story. It is very intuitive to start telling other people stories.
+* More food brought more intelligence. We have now started thinking about more complex strategies and concepts. We scaled our empires further and eventually came up with writing in order to tell the most important tales of our emperors. Uighurs Walls.
+* As we have started traveling the world we were baffled to see other characters we didn't recognize and clearly like any other thing we've seen in the world. AS we've traveled more we've started seeing people talking different languages who has their own tales and mythologies.
+* Then paper was invented and language took another since now one can produce a thing with many words and talk to more people than they can collect in the town center.
+* As we grew more we've started coming up with rules. certain holy words has started entering into our lives. instutions are started who set and enforce the rules and dictionaires.
+* than we've invented the internet and started to get exposed to the cultures of the most advanced civilizations. words are exchanged amongs cultures.
+* Than the languages started entering into competition and fighting with each other. weak ones has started disappearing.
+* Each culture developed their own language as they also developed their own tales and mythologies.
+
+--------
 
 
-
-* **Entry**
-  * Listening a foreign language
-  * What are words?
-* **Origins**
-  * Pointers to existing research
-  * Dimensions
-    * Representation Medium: Graphics, tactile (braille), voice, writing, gestures / Shouts / Detailed Vocalization / Writing
-    * Two way communication (live - offline (via books, etc..))
-    * Meaning
-    * Translation
-* **The Birth of Words**  
-  * Common concepts dating to very very early dates.
-  * First words probably Emotions & Exclamations expressed in form of gestures / shouts
-  * Probably served very primitive purposes: hunting, raising offspring, mating
-  * Purposes that involve at least two human beings
-  * With the arrival of language it got more easy to agree on representations of common things
-    * Morpheme: -ness, -ed, etc...
-  * As more common things are agreed upon, the more complex the language got
-  * Positive feedback loop benefited humans greatly.
-  * Each culture developed their own vocabulary since they were not in touch with many other cultures.
-  * With the arrival of writing it got even more easy.
-  * Cultures formed institutions to define official meanings of words.
-  * Cultures than started exchanging words.
 * **Differences**
   * Sociolinguistics
   * Bon Appetit - Afiyet olsun example.

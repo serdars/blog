@@ -3,6 +3,7 @@
   %head
     %meta{:charset => "utf-8"}
     %meta{"http-equiv" => 'X-UA-Compatible', :content => 'IE=edge;chrome=1'}
+    %meta{"name" => "viewport", "content" => "initial-scale=1.0, user-scalable=no"}
     %title
       Blog Title #{" - #{current_article.title}" if current_article}
 
@@ -37,11 +38,11 @@
     .main{:role => "main"}
       .row
         -# MAIN CONTENT
-        .col-md-offset-1.col-md-8
+        .col-md-offset-1.col-md-8.col-xs-12.col-sm-12
           = yield
           .free-space
         -# Tags
-        .col-md-2
+        .col-md-2.col-xs-12.col-sm-12
           .list-group
             - blog.tags.each do |tag, articles|
               %a.list-group-item{:href => tag_path(tag), :class => ("disabled" if current_page.data.tag_page && tagname == tag)}

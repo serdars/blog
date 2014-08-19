@@ -25,3 +25,7 @@ body {
 .visual {
   width: 100%;
 }
+
+.main {
+  padding: 0 10px;
+}
