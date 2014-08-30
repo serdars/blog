@@ -28,6 +28,14 @@ As like all the things, words have been a topic of conversation for human beings
 * Than the languages started entering into competition and fighting with each other. weak ones has started disappearing.
 * Each culture developed their own language as they also developed their own tales and mythologies.
 
+* Behavioral modernity is associated with origin of language.
+* http://en.wikipedia.org/wiki/Cultural_universals
+* Elements of behavioral modernity include finely-made tools, fishing, long-distance sharing or exchange among groups, self-ornamentation, figurative art, games, music, cooking and burial.
+* Teaching in killer whales / ants.
+* Learning types: Instinct, habituation / associative learning / imprinting /
+  * Observational learning: imitation, stimulus enhancement / Social transmission / Teaching
+* Sudden modernity 50k years ago /
+
 --------
 
 
