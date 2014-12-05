@@ -2,7 +2,6 @@
 title: Noam Chomsky - Power Systems
 date: 2014-12-01 02:13 UTC
 tags: books
-published: true
 ---
 
 _A decent propaganda system doesn't announce its principles or intentions. You presuppose a framework and then people just come to accept it._
