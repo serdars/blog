@@ -4,7 +4,7 @@ date: 2014-12-05 08:38 UTC
 tags: books
 ---
 
-Part 1 of the magnum opus of Daniel Kahneman, Thinking Fast & Slow talks about how the mind works. These are my notes from this section.
+Part 1 of the magnum opus of [Daniel Kahneman](http://en.wikipedia.org/wiki/Daniel_Kahneman), [Thinking Fast & Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=sr_1_1?s=books&ie=UTF8&qid=1417992744) talks about how the mind works. These are my notes from this section.
 
 ### Introduction
 
