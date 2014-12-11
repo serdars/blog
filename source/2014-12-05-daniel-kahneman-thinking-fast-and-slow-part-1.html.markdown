@@ -6,6 +6,8 @@ tags: books
 
 Part 1 of the magnum opus of [Daniel Kahneman](http://en.wikipedia.org/wiki/Daniel_Kahneman), [Thinking Fast & Slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=sr_1_1?s=books&ie=UTF8&qid=1417992744) talks about how the mind works. These are my notes from this section.
 
+READMORE
+
 ### Introduction
 
 * Our judgement & decision making is hugely impacted by the biases that we are not consciously aware of.

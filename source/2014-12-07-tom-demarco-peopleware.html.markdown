@@ -6,6 +6,8 @@ tags: books
 
 Some notes and commentary from [Tom DeMarco's](http://en.wikipedia.org/wiki/Tom_DeMarco) [Peopleware](http://www.amazon.com/Peopleware-Productive-Projects-Second-Edition/dp/0932633439):
 
+READMORE
+
 ### Team Sociology
 
 Majority of the problems that stand between a project and success are generally not technical problems but sociological ones. **Politics** is not the right word when talking about these problems. This word is used when we don't want to engage with some problems. We classify them as institutional, un-fixable and classify them under **Politics** to excuse ourselves from attempting to solve them.
