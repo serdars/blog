@@ -22,7 +22,7 @@ body {
   src: url("../fonts/Raleway-Bold.otf") format("opentype");
 }
 
-.visual {
+.full-width, .visual {
   width: 100%;
 }
 
