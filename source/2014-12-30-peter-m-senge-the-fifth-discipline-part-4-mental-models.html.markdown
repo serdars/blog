@@ -1,7 +1,7 @@
 ---
 title: Peter M. Senge - The Fifth Discipline - Part 4 - Mental Models
 date: 2014-12-30 03:48 UTC
-tags: books
+tags: books,fifth discipline
 ---
 
 Notes and commentary on [Peter M. Senge's](http://en.wikipedia.org/wiki/Peter_Senge) [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342) continues with third building block: Mental Models.

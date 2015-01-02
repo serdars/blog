@@ -1,7 +1,7 @@
 ---
 title: Peter M. Senge - The Fifth Discipline - Part 3 - Personal Mastery
 date: 2014-12-19 03:29 UTC
-tags: books
+tags: books,fifth discipline
 ---
 One of the most important topics in [Peter M. Senge's](http://en.wikipedia.org/wiki/Peter_Senge) [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342): Personal Mastery.
 

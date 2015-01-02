@@ -1,7 +1,7 @@
 ---
 title: Peter M. Senge - The Fifth Discipline - Part 1
 date: 2014-12-11 08:24 UTC
-tags: books
+tags: books,fifth discipline
 ---
 
 Notes and commentary on [Peter M. Senge's](http://en.wikipedia.org/wiki/Peter_Senge) [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342):

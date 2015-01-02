@@ -1,7 +1,7 @@
 ---
 title: Peter M. Senge - The Fifth Discipline - Part 2
 date: 2014-12-18 02:15 UTC
-tags: books
+tags: books,fifth discipline
 ---
 Notes and commentary on [Peter M. Senge's](http://en.wikipedia.org/wiki/Peter_Senge) [The Fifth Discipline](http://www.amazon.com/The-Fifth-Discipline-Practice-Organization/dp/0553456342) continues with the basics of the fifth discipline: Systems Thinking.
 
